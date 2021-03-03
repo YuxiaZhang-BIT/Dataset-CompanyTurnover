@@ -1,0 +1,121 @@
+﻿status,company,scale,scale-level,aim
+0,hastexo,10,1,1
+0,99cloud,50,2,1
+0,aptira,50,2,1
+0,cloudbase solutions,50,2,2
+0,cloudvps,50,2,1
+0,memset,50,2,1
+0,metacloud,50,2,1
+0,midokura,100,2,2
+0,nectar,50,2,5
+0,objectif libre,11-51,2,4
+0,osones,11-50,2,4
+0,swiftstack,100,2,2
+0,switch,50,2,5
+0,tcp cloud,50,2,1
+0,canonical,1000,3,1
+0,dreamhost,1000,3,2
+0,grid dynamics,500,3,1
+0,internap,1000,3,1
+0,izel technologies,250,3,4
+0,mirantis,1000,3,1
+0,nexenta,250,3,3
+0,solidfire,500,3,2
+0,unitedstack,250,3,1
+0,va linux,500,3,4
+0,wikimedia foundation,250,3,6
+0,yahoo!,250,3,5
+0,brocade,5000,4,3
+0,huawei,5001-10000,4,1
+0,inria,5000,4,4
+0,pure storage,1001-5000,4,2
+0,rackspace,5000,4,1
+0,sina,5000,4,1
+0,suse,5000,4,1
+0,at&t,10001,5,5
+0,cern,10000,5,5
+0,cisco systems,10001,5,1
+0,citrix,10001,5,3
+0,comcast,10001,5,5
+0,dell,10001,5,1
+0,deutsche telekom,10001,5,5
+0,ebay,10001,5,5
+0,ericsson,10001,5,5
+0,fujitsu,10001+,5,3
+0,hp,10001,5,1
+0,hpe,10001,5,1
+0,ibm,10001,5,1
+0,intel,10000,5,3
+0,kt corporation,10001,5,5
+0,nec,10001,5,1
+0,netapp,10001,5,2
+0,netease,10001,5,1
+0,nokia,10001+,5,1
+0,ntt,10001,5,5
+0,oracle,10001,5,3
+0,orange,10001,5,5
+0,persistent systems,10000,5,1
+0,red hat,10000,5,1
+0,samsung,10001+,5,5
+0,vmware,10001,5,3
+0,zte corporation,10001,5,1
+1,alyseo,10,1,3
+1,cloudscaling,10,1,1
+1,nimbis services,10,1,5
+1,anchor,51-100,2,1
+1,b<>com,11-50,2,3
+1,blue box,100,2,1
+1,cc-in2p3,51-100,2,1
+1,codethink,51-100,2,4
+1,coraid,100,2,3
+1,cybera,100,2,1
+1,enovance,100,2,1
+1,gridcentric,50,2,3
+1,momentumsi,100,2,4
+1,nebula,100,2,1
+1,ngnware,11-50,2,4
+1,nicira,100,2,3
+1,plumgrid,100,2,3
+1,savoir-faire linux,51-100,2,4
+1,stackops,50,2,1
+1,the guardian,50,2,5
+1,violin memory,51-100,2,3
+1,xsky,51-100,2,2
+1,zetta.io,11-50,2,1
+1,xlab,11-50,2,3
+1,wanclouds,40,2,1
+1,a10 networks,501-1000,3,3
+1,bluehost,501-1000,3,1
+1,chef,500,3,7
+1,cloudwatt,250,3,1
+1,daocloud,101-250,3,1
+1,docker,250,3,6
+1,eisoo,1300,3,3
+1,intralinks,501-1000,3,5
+1,isp ras,1000,3,3
+1,iweb,250,3,1
+1,mynet,500,3,2
+1,oneconvergence,101-250,3,2
+1,percona,101-250,3,3
+1,piston cloud,250,3,1
+1,puppet labs,500,3,7
+1,scality,250,3,3
+1,spil games,500,3,5
+1,tintri,1000,3,3
+1,virtualtech,250,3,4
+1,x-io,251-500,3,3
+1,instituto de telecomunicacoes,5000,4,5
+1,pivotal,5000,4,3
+1,sony mobile communications,5001-10000,4,5
+1,bloomberg,10001+,5,5
+1,bull,10000,5,3
+1,business connexion,10000,5,1
+1,epam,10001+,5,1
+1,google,10001+,5,7
+1,inktank,10000,5,3
+1,kddi,10001+,5,5
+1,nimbula,10001,5,1
+1,reliance,10000,5,5
+1,sk telecom,10000,5,5
+1,symantec,10001+,5,5
+1,ubisoft entertainment,10000,5,5
